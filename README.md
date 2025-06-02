@@ -26,9 +26,7 @@ HW4/
 
 ### 1. Find the code 
 
-```bash
-(https://colab.research.google.com/drive/1o2dy5LYqROhQ_50fB1KZmWrqDUBOxPF2?usp=sharing)
-```
+https://colab.research.google.com/drive/1o2dy5LYqROhQ_50fB1KZmWrqDUBOxPF2?usp=sharing)
 
 ### 2. Set up the environment
 
