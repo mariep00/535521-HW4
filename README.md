@@ -24,11 +24,10 @@ HW4/
 
 ## Set up
 
-### 1. Clone the repository
+### 1. Find the code 
 
 ```bash
-git clone https://github.com/mariep00/535521-HW3.git
-cd 535521-HW4
+(https://colab.research.google.com/drive/1o2dy5LYqROhQ_50fB1KZmWrqDUBOxPF2?usp=sharing)
 ```
 
 ### 2. Set up the environment
